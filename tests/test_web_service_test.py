@@ -11,7 +11,7 @@ from hilltoppy.web_service import measurement_list, site_list, get_data, wq_samp
 ### Parameters
 base_url = 'http://testwateruse.ecan.govt.nz'
 
-hts_names = ['AquiferManualQcEcanDaily', 'AquiferRecorderQcEcanDaily', 'AbstractionRawDaily', 'RiverManualQcEcanDaily', 'RiverRecorderQcEcanDaily', 'AtmosRecorderQcEcanDaily', 'RiverRecorderRawEcanDaily', 'AtmosRecorderRawEcanDaily', 'AquiferRecorderRawEcanDaily', 'AquiferManualQcEcanHourly', 'AquiferRecorderQcEcanHourly', 'RiverManualQcEcanHourly', 'RiverRecorderQcEcanHourly', 'AtmosRecorderQcEcanHourly', 'RiverRecorderRawEcanHourly', 'AtmosRecorderRawEcanHourly', 'AquiferRecorderRawEcanHourly']
+hts_names = ['AquiferManualQcEcanDaily', 'AquiferRecorderQcEcanDaily', 'AbstractionRawDaily', 'RiverManualQcEcanDaily', 'RiverRecorderQcEcanDaily', 'AtmosRecorderQcEcanDaily', 'RiverRecorderRawEcanDaily', 'AtmosRecorderRawEcanDaily', 'AquiferRecorderRawEcanDaily', 'AquiferManualQcEcanHourly', 'AquiferRecorderQcEcanHourly', 'RiverManualQcEcanHourly', 'RiverRecorderQcEcanHourly', 'AtmosRecorderQcEcanHourly', 'RiverRecorderRawEcanHourly', 'AtmosRecorderRawEcanHourly', 'AquiferRecorderRawEcanHourly', 'WQAll']
 
 ### Tests
 
