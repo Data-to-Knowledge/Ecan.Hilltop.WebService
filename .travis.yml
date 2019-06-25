@@ -21,7 +21,7 @@ install:
   - source activate test
 
 script:
-  - py.test tests --cov tests -v --cov-report term-missing
+  - py.test tests/test_web_service_prod.py --cov tests -v --cov-report term-missing
 
 after_success:
   - codecov
