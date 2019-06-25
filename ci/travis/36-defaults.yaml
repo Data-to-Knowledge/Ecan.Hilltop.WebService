@@ -1,5 +1,6 @@
 name: test
 channels:
+  - mullenkamp
   - defaults
 dependencies:
   - python=3.6
@@ -7,6 +8,3 @@ dependencies:
   - hilltop-py
   # testing
   - pytest
-  - pytest-cov
-  - pip:
-    - codecov
